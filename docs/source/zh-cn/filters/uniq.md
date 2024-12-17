@@ -15,4 +15,5 @@ title: uniq
 输出
 ```text
 
-ants, bugs, bees```
+ants, bugs, bees
+```
